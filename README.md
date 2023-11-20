@@ -2,7 +2,7 @@
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
 Internship Category - Data Science and Business Analytics
-Internship Duration - 2 Month ( September-2023 )
+Internship Duration - 2 Month ( October-2023 )
 Internship Type - Work from Home In this internship, They provided us with various Tasks and I was able to successfully complete the tasks within the given time frame.
 
 # Task-1: Prediction using Supervised ML (Level - Beginner)
@@ -23,7 +23,3 @@ Internship Type - Work from Home In this internship, They provided us with vario
 3. What business problems you can derive from exploring the data?
 4. Use Tableau as a data visualization tool.
 
-# Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
-1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
-2. The purpose is if we feed any new data to this classifier, it will be able to predict the right class accordingly.
-3. Data can be found at https://bit.ly/3kXTdox
